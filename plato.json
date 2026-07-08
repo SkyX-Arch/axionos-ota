@@ -1,0 +1,28 @@
+{
+    "response": [
+        {
+            "maintainer": "SkyX-Arch",
+            "oem": "Xiaomi",
+            "device": "Xiaomi 12T",
+            "filename": "crDroidAndroid-16.0-20260705-plato-v12.11.zip",
+            "url": "https://github.com/SkyX-Arch/crdroid-ota/releases/download/crDroidAndroid-16.0-20260705-plato-v12.11/crDroidAndroid-16.0-20260705-plato-v12.11.zip",
+            "datetime": 1783237080,
+            "md5": "9ad08cbb8975558794ebb2621e00d0fb",
+            "sha256": "21eb60b4684cb2f43cf0efe3abdb0497c1c1c7e5582cfd7a4163b8f19a27903f",
+            "size": 1929857518,
+            "version": "2.7",
+            "romtype": "Unofficial",
+            "forum": "https://github.com/SkyX-Arch/axionos-ota",
+            "gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-16/22-Feb-2026/",
+            "firmware": "https://xmfirmwareupdater.com/firmware/plato/stable/OS2.0.214.0.VLQMIXM/",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "https://t.me/SkyXArch",
+            "dt": "https://github.com/SkyX-Arch/android_device_xiaomi_plato",
+            "common-dt": "https://github.com/SkyX-Arch/android_device_xiaomi_mt6895-common",
+            "kernel": "https://github.com/XagaForge/android_kernel_xiaomi_mt6895"
+        }
+    ]
+}
