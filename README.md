@@ -77,6 +77,7 @@ Special thanks to:
 - [XagaForge](https://github.com/XagaForge)
 - [Archcloudy](https://github.com/archcloudy)
 - [crDroid Team](https://github.com/crdroidandroid)
+- [AxionOS Team](https://github.com/AxionAOSP)
 
 ---
 
