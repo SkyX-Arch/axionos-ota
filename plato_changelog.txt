@@ -1,1 +1,14 @@
+Highlights & Device Specific Changes
+-----------------------------------
+Device: Xiaomi 12T (plato)
+Build type: Unofficial
+Maintainer: SkyX-Arch
 
+====================================================
+
+2026-07-08
+----------------------------------------------------
+- First firmware release
+- Over-the-air (OTA) updates have been implemented
+
+====================================================
