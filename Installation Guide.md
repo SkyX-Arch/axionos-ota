@@ -9,7 +9,7 @@ Before starting, download the following files:
 
 * [preloader_plato.bin](https://pixeldrain.com/u/6eYXU83J)
 * [Latest AxionOS ROM package](https://github.com/SkyX-Arch/axionos-ota/releases/latest)
-* [GApps package]([https://sourceforge.net/projects/nikgapps/files/Elite-Releases/Android-16/](https://sourceforge.net/projects/nikgapps/files/Releases/Android-16/22-Feb-2026/)) (optional)
+* [GApps package](https://sourceforge.net/projects/nikgapps/files/Releases/Android-16/22-Feb-2026/) (optional)
 * [Latest Android Platform Tools](https://developer.android.com/tools/releases/platform-tools) (ADB/Fastboot)
 
 Additionally:
