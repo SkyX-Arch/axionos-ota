@@ -10,5 +10,6 @@ Maintainer: SkyX-Arch
 ----------------------------------------------------
 - First firmware release
 - Over-the-air (OTA) updates have been implemented
-
+- Updated SELinux policies to match the latest AxionOS security enhancements (NewFix)
+- Changed Hidden API enforcement to warning mode for better app compatibility (NewFix)
 ====================================================
