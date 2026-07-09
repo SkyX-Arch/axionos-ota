@@ -6,7 +6,7 @@ Maintainer: SkyX-Arch
 
 ====================================================
 
-2026-07-08
+2026-07-09
 ----------------------------------------------------
 - First firmware release
 - Over-the-air (OTA) updates have been implemented
