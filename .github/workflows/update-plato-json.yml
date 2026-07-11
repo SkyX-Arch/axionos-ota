@@ -3,6 +3,12 @@ name: Update plato.json on Release
 on:
   release:
     types: [published]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Тег релиза, для которого нужно обновить plato.json"
+        required: true
+        type: string
 
 jobs:
   update-plato-json:
@@ -21,7 +27,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          RELEASE_TAG="${{ github.event.release.tag_name }}"
+          RELEASE_TAG="${{ github.event.inputs.tag || github.event.release.tag_name }}"
           REPO="${{ github.repository }}"
 
           # Имя первого .zip-файла в релизе
