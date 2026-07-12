@@ -132,4 +132,5 @@ jobs:
     uses: ./.github/workflows/_publish-telegram-post.yml
     with:
       config_path: telegram/config/plato.yml
+      ref: main
     secrets: inherit
