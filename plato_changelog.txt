@@ -6,12 +6,12 @@ Maintainer: SkyX-Arch
 
 ====================================================
 
-2026-07-09
+2026-07-12
 ----------------------------------------------------
-- First firmware release
-- Over-the-air (OTA) updates have been implemented
-- Updated SELinux policies to match the latest AxionOS security enhancements (NewFix)
-- Changed Hidden API enforcement to warning mode for better app compatibility (NewFix)
+- Improvements to the MediaTek auto-brightness service, previously, it could still crash
+- Rendering has been migrated to Vulkan, making the system smoother and more stable
+- Eliminated silent background battery drain during screen-off and reduced micro-stutters
+
 ====================================================
 
 2026-07-11
@@ -27,4 +27,14 @@ Maintainer: SkyX-Arch
 - Improved Wi-Fi reliability by disabling unsupported driver features
 - Removed unnecessary background logging to reduce system overhead
 - Updated SELinux policies for improved security, compatibility, and overall stability
+
+====================================================
+
+2026-07-09
+----------------------------------------------------
+- First firmware release
+- Over-the-air (OTA) updates have been implemented
+- Updated SELinux policies to match the latest AxionOS security enhancements (NewFix)
+- Changed Hidden API enforcement to warning mode for better app compatibility (NewFix)
+
 ====================================================
